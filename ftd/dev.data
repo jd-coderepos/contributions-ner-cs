@@ -1,0 +1,216 @@
+Automatic	O
+Question	B-RESEARCH_PROBLEM
+Answering	E-RESEARCH_PROBLEM
+:	O
+Beyond	O
+The	O
+Factoid	O
+.	O
+
+Growing	O
+Semantic	B-RESEARCH_PROBLEM
+Grammars	E-RESEARCH_PROBLEM
+.	O
+
+An	O
+Efficient	O
+Clustering	S-METHOD
+Algorithm	O
+For	O
+Class-Based	S-METHOD
+Language	B-RESEARCH_PROBLEM
+Models	E-RESEARCH_PROBLEM
+.	O
+
+Hypothesis	O
+Selection	O
+in	O
+Machine	B-RESEARCH_PROBLEM
+Transliteration	E-RESEARCH_PROBLEM
+:	O
+A	O
+Web	B-METHOD
+Mining	E-METHOD
+Approach	O
+.	O
+
+Rhetoric	S-METHOD
+As	O
+Knowledge	O
+.	O
+
+An	O
+Integrated	O
+Model	O
+For	O
+Anaphora	B-RESEARCH_PROBLEM
+Resolution	E-RESEARCH_PROBLEM
+.	O
+
+Word	B-RESEARCH_PROBLEM
+Sense	I-RESEARCH_PROBLEM
+Disambiguation	E-RESEARCH_PROBLEM
+for	O
+All	O
+Words	O
+using	O
+Tree-Structured	B-METHOD
+Conditional	I-METHOD
+Random	I-METHOD
+Fields	E-METHOD
+.	O
+
+Learning	O
+Subjective	B-RESEARCH_PROBLEM
+Nouns	E-RESEARCH_PROBLEM
+Using	O
+Extraction	B-METHOD
+Pattern	I-METHOD
+Bootstrapping	E-METHOD
+.	O
+
+Improvements	O
+in	O
+Analogical	B-METHOD
+Learning	E-METHOD
+:	O
+Application	O
+to	O
+Translating	B-RESEARCH_PROBLEM
+Multi-Terms	I-RESEARCH_PROBLEM
+of	I-RESEARCH_PROBLEM
+the	I-RESEARCH_PROBLEM
+Medical	I-RESEARCH_PROBLEM
+Domain	E-RESEARCH_PROBLEM
+.	O
+
+Modeling	O
+The	O
+User	O
+'s	O
+Plans	B-METHOD
+And	I-METHOD
+Goals	E-METHOD
+.	O
+
+Unsupervised	S-METHOD
+Semantic	B-RESEARCH_PROBLEM
+Role	I-RESEARCH_PROBLEM
+Labeling	E-RESEARCH_PROBLEM
+.	O
+
+Unsupervised	S-METHOD
+Language	B-RESEARCH_PROBLEM
+Model	I-RESEARCH_PROBLEM
+Adaptation	E-RESEARCH_PROBLEM
+Incorporating	O
+Named	B-METHOD
+Entity	I-METHOD
+Information	E-METHOD
+.	O
+
+Using	O
+a	O
+Dependency	B-METHOD
+Parser	E-METHOD
+to	O
+Improve	O
+SMT	S-RESEARCH_PROBLEM
+for	O
+Subject-Object-Verb	O
+Languages	O
+.	O
+
+Class-Based	B-METHOD
+Collocations	E-METHOD
+For	O
+Word	B-RESEARCH_PROBLEM
+Sense	I-RESEARCH_PROBLEM
+Disambiguation	E-RESEARCH_PROBLEM
+.	O
+
+Analysis	O
+Of	O
+Unknown	B-RESEARCH_PROBLEM
+Lexical	I-RESEARCH_PROBLEM
+Items	E-RESEARCH_PROBLEM
+Using	O
+Morphological	S-METHOD
+And	O
+Syntactic	S-METHOD
+Information	O
+With	O
+The	O
+TIMIT	O
+Corpus	O
+.	O
+
+On	O
+The	O
+Subjectivity	B-RESEARCH_PROBLEM
+Of	I-RESEARCH_PROBLEM
+Human	I-RESEARCH_PROBLEM
+Authored	I-RESEARCH_PROBLEM
+Summaries	E-RESEARCH_PROBLEM
+.	O
+
+A	O
+Framework	O
+for	O
+Identifying	O
+Textual	B-RESEARCH_PROBLEM
+Redundancy	E-RESEARCH_PROBLEM
+.	O
+
+Context	B-RESEARCH_PROBLEM
+Sensing	E-RESEARCH_PROBLEM
+Using	O
+Speech	B-METHOD
+And	I-METHOD
+Common	I-METHOD
+Sense	E-METHOD
+.	O
+
+Weighted	B-RESEARCH_PROBLEM
+Deductive	I-RESEARCH_PROBLEM
+Parsing	E-RESEARCH_PROBLEM
+And	O
+Knuth	B-METHOD
+'s	I-METHOD
+Algorithm	E-METHOD
+.	O
+
+A	O
+Unified	B-METHOD
+Syntactic	E-METHOD
+Model	O
+for	O
+Parsing	B-RESEARCH_PROBLEM
+Fluent	I-RESEARCH_PROBLEM
+and	I-RESEARCH_PROBLEM
+Disfluent	I-RESEARCH_PROBLEM
+Speech	E-RESEARCH_PROBLEM
+.	O
+
+Using	O
+Natural	O
+Language	O
+Processing	O
+to	O
+Classify	B-RESEARCH_PROBLEM
+Suicide	I-RESEARCH_PROBLEM
+Notes	E-RESEARCH_PROBLEM
+.	O
+
+An	O
+Efficient	O
+Kernel	S-METHOD
+for	O
+Multilingual	B-RESEARCH_PROBLEM
+Generation	I-RESEARCH_PROBLEM
+in	I-RESEARCH_PROBLEM
+Speech-to-Speech	I-RESEARCH_PROBLEM
+Dialogue	I-RESEARCH_PROBLEM
+Translation	E-RESEARCH_PROBLEM
+.	O
+

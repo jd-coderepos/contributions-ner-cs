@@ -19,7 +19,7 @@ where titles are annotated with all seven entities, while abstracts are annotate
 
 ### Dataset Statistics
 
-(full dataset)[https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset]
+[full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
 
 Titles
 

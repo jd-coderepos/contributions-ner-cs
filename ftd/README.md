@@ -1,4 +1,4 @@
-### 1) Dataset Statistics
+### Dataset Statistics
 
 The dataset proposed in [Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers](https://aclanthology.org/I11-1001/) (Gupta & Manning, IJCNLP 2011)
 

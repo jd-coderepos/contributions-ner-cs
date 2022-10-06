@@ -1,4 +1,4 @@
-### 1) Dataset Statistics
+### Dataset Statistics
 
 Contains annotated data for all seven cs-ner entities on titles of papers in the ACL anthology
 

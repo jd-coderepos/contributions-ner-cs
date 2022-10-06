@@ -14,8 +14,8 @@ The main contributions are:
    - The dataset proposed in [SemEval-2021 Task 11: NLPContributionGraph - Structuring Scholarly NLP Contributions for a Research Knowledge Graph](https://aclanthology.org/2021.semeval-1.44/) (D’Souza et al., SemEval 2021) is the source for [ncg](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ncg), annotated for both titles and abstracts for _research problem_
    - https://paperswithcode.com/ as the [pwc](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/pwc) annotated for both titles and abstracts for _task_ -> _research problem_ and _method_ entities.
 
-2) Additionally, supplies a new annotated dataset for the titles and abstracts in the ACL anthology in the [acl repository](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/acl) 
-where titles are annotated with all seven entities, while abstracts are annotated with _research problem_ and _method_ entities.
+2) Additionally, supplies a new annotated dataset for the titles in the ACL anthology in the [acl repository](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/acl) 
+where titles are annotated with all seven entities.
 
 
 ### 2) Dataset Statistics for [full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
@@ -81,6 +81,7 @@ where titles are annotated with all seven entities, while abstracts are annotate
 | research problem | 4,123 |
 | method | 3,170 |
 
+The reamining repositories have specialized README files with the respective dataset statistics.
 
 ### 3) Citation
 

@@ -14,7 +14,7 @@ The main contributions are:
    - https://paperswithcode.com/ as the [pwc](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/pwc) annotated for both titles and abstracts for _task_ -> _research problem_ and _method_ entities.
 
 2) Additionally, supplies a new annotated dataset for the titles and abstracts in the ACL anthology in the [acl repository](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/acl) 
-where titles are annotated with all seven entities while abstracts are annotated with _research problem_ and _method_ entities.
+where titles are annotated with all seven entities, while abstracts are annotated with _research problem_ and _method_ entities.
 
 
 ### Dataset Statistics

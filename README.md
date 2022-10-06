@@ -20,7 +20,9 @@ where titles are annotated with all seven entities, while abstracts are annotate
 
 ### 2) Dataset Statistics for [full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
 
+-------
 Titles
+-------
 
 `train.data`
 
@@ -58,7 +60,9 @@ Titles
 | dataset | 947 |
 | language | 690 |
 
+-----------
 Abstracts
+-----------
 
 `train-abs.data`
 

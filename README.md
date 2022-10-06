@@ -99,3 +99,12 @@ Preprint
   year={2022}
 }
 ```
+
+### 4) Additional Resources
+
+Codebase: https://gitlab.com/TIBHannover/orkg/nlp/orkg-nlp-experiments/-/tree/master/orkg_cs_ner
+
+Service URL - REST API: https://orkg.org/nlp/api/docs#/annotation/annotates_paper_annotation_csner_post
+
+Service URL - PyPi: https://orkg-nlp-pypi.readthedocs.io/en/latest/services/services.html#cs-ner-computer-science-named-entity-recognition 
+

@@ -19,11 +19,45 @@ where titles are annotated with all seven entities, while abstracts are annotate
 
 ### Dataset Statistics
 
-
+(full dataset)[https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset]
 
 Titles
 
+`train.data`
 
+| NER | Count |
+| --- | --- |
+| solution | 65,213 |
+| research problem | 43,033 |
+| resource | 19,759 |
+| method | 19,645 |
+| tool | 4,856 |
+| dataset | 4,062 |
+| language | 1,704 |
+
+`dev.data`
+
+| NER | Count |
+| --- | --- |
+| solution | 3,685 |
+| research problem | 2,717 |
+| resource | 1,224 |
+| method | 1,172 |
+| tool | 264 |
+| dataset | 191 |
+| language | 79 |
+
+`test.data`
+
+| NER | Count |
+| --- | --- |
+| solution | 29,287 |
+| research problem | 11,093 |
+| resource | 8,511 |
+| method | 7,009 |
+| tool | 2,272 |
+| dataset | 947 |
+| language | 690 |
 
 Abstracts
 

@@ -1,8 +1,6 @@
 ### Dataset Statistics
 
-The dataset proposed in [Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers](https://aclanthology.org/I11-1001/) (Gupta & Manning, IJCNLP 2011)
-
-The original dataset is [raw-data.txt](https://github.com/jd-coderepos/contributions-ner-cs/blob/main/ftd/raw-data.txt)
+Dataset from https://paperswithcode.com/
 
 #### Titles
 

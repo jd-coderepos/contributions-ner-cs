@@ -7,11 +7,10 @@ _tool_ , _method_ , and _dataset_ .
 
 The main contributions are:
 
-1) Combines [FTD dataset](https://aclanthology.org/I11-1001/), 
-combines existing CS NER resources that maintain their annotation focus on the set or subset of contribution-centric scholarly entities we consider;
-further, noting the need for big data to train neural NER models, this work additionally supplies thousands of contribution-centric entity
-annotations from article titles and abstracts, thus releasing a cumulative
-large novel resource for CS NER
+1) Merges annotations from the [FTD dataset](https://aclanthology.org/I11-1001/), [SciERC dataset](https://aclanthology.org/D18-1360/),
+[NCG Dataset](https://aclanthology.org/2021.semeval-1.44/), and [PwC dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/pwc).
+
+2) Additionally, supplies a new annotated dataset for the titles and abstracts in the ACL anthology.
 
 
 ### Dataset Statistics

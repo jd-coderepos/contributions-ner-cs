@@ -59,12 +59,26 @@ Titles
 
 Abstracts
 
+`train-abs.data`
 
+| NER | Count |
+| --- | --- |
+| research problem | 15,498 |
+| method | 12,932 |
 
-### Related Work
+`dev-abs.data`
 
-3) NCG Dataset
+| NER | Count |
+| --- | --- |
+| research problem | 1,450 |
+| method | 839 |
 
+`test-abs.data`
+
+| NER | Count |
+| --- | --- |
+| research problem | 4,123 |
+| method | 3,170 |
 
 
 ### Citation

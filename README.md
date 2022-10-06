@@ -7,8 +7,11 @@ _tool_ , _method_ , and _dataset_ .
 
 The main contributions are:
 
-1) Merges annotations for contribution-centric named entities from the [FTD dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ftd), [SciERC dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/scierc),
-[NCG Dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ncg), and [PwC dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/pwc).
+1) Merges annotations for contribution-centric named entities from the following datasets: 
+   - [ftd](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ftd): _focus_ --> _solution_ ; _domain_ --> _research problem_ ; and _technique_ --> _method_ [Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers](https://aclanthology.org/I11-1001/) (Gupta & Manning, IJCNLP 2011)
+   - [scierc](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/scierc),
+   - [ncg](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ncg), and 
+   - [pwc](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/pwc).
 
 2) Additionally, supplies a new annotated dataset for the titles and abstracts in the ACL anthology in the [acl repository](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/acl).
 

@@ -8,7 +8,7 @@ _tool_ , _method_ , and _dataset_ .
 The main contributions are:
 
 1) Merges annotations for contribution-centric named entities from related work as the following datasets: 
-   - [ftd](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ftd): _focus_ -> _solution_ ; _domain_ -> _research problem_ ; and _technique_ -> _method_ [Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers](https://aclanthology.org/I11-1001/) (Gupta & Manning, IJCNLP 2011)
+   - The dataset proposed in [Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers](https://aclanthology.org/I11-1001/) (Gupta & Manning, IJCNLP 2011) is the source for [ftd](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ftd), annotated for both titles and abstracts for the following select entities mapped to our standardized types _focus_ -> _solution_ ; _domain_ -> _research problem_ ; and _technique_ -> _method_ 
    - [scierc](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/scierc),
    - [ncg](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/ncg), and 
    - [pwc](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/pwc).

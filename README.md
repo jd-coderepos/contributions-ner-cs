@@ -100,7 +100,9 @@ Preprint
 }
 ```
 
-### 4) Additional Resources
+### 4) Additional resources
+
+#### CS NER Software trained on the dataset in this repository
 
 Codebase: https://gitlab.com/TIBHannover/orkg/nlp/orkg-nlp-experiments/-/tree/master/orkg_cs_ner
 

@@ -1,5 +1,6 @@
 # Computer Science Named Entity Recognition in the Open Research Knowledge Graph (CS-NER dataset)
 
+### 1) About
 
 This work proposes a standardized CS-NER task by defining a set of seven _contribution-centric_ scholarly
 entities for CS NER viz., _research problem_ , _solution_ , _resource_ , _language_ ,
@@ -17,7 +18,7 @@ The main contributions are:
 where titles are annotated with all seven entities, while abstracts are annotated with _research problem_ and _method_ entities.
 
 
-### Dataset Statistics for [full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
+### 2) Dataset Statistics for [full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
 
 Titles
 
@@ -81,7 +82,7 @@ Abstracts
 | method | 3,170 |
 
 
-### Citation
+### 3) Citation
 
 ```
 @article{d2022computer,

@@ -84,6 +84,11 @@ where titles are annotated with all seven entities, while abstracts are annotate
 
 ### 3) Citation
 
+Forthcoming ICADL 2022 publication.
+
+
+Preprint
+
 ```
 @article{d2022computer,
   title={Computer Science Named Entity Recognition in the Open Research Knowledge Graph},

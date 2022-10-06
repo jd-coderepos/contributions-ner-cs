@@ -84,7 +84,8 @@ where titles are annotated with all seven entities, while abstracts are annotate
 
 ### 3) Citation
 
-Forthcoming ICADL 2022 publication.
+Accepted for publication in ICADL 2022 proceedings.
+`Citation information forthcoming`
 
 
 Preprint

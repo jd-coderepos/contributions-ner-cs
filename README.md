@@ -17,9 +17,7 @@ The main contributions are:
 where titles are annotated with all seven entities, while abstracts are annotated with _research problem_ and _method_ entities.
 
 
-### Dataset Statistics
-
-[full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
+### Dataset Statistics for [full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
 
 Titles
 

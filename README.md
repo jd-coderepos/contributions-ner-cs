@@ -20,6 +20,8 @@ where titles are annotated with all seven entities.
 
 ### 2) Dataset Statistics for [full dataset](https://github.com/jd-coderepos/contributions-ner-cs/tree/main/full%20dataset)
 
+Please note the numbers below reflect the total annotated entities. They do not reflect the unique set of annotated entities.
+
 #### Titles
 
 `train.data`
@@ -81,7 +83,7 @@ where titles are annotated with all seven entities.
 | method | 2,723 |
 | research problem | 2,100 |
 
-The reamining repositories have specialized README files with the respective dataset statistics.
+The remaining repositories have specialized README files with the respective dataset statistics.
 
 ### 3) Citation
 

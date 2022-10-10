@@ -10,24 +10,24 @@ The original dataset is [raw-data.txt](https://github.com/jd-coderepos/contribut
 
 | NER | Count |
 | --- | --- |
-| research problem | 929 |
-| method | 650 |
-| solution | 23 |
+| research problem | 361 |
+| method | 311 |
+| solution | 14 |
 
 `dev.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 60 |
-| method | 38 |
+| research problem | 20 |
+| method | 19 |
 
 `test.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 217 |
-| method | 144 |
-| solution | 3 |
+| research problem | 83 |
+| method | 73 |
+| solution | 2 |
 
 
 #### Abstracts
@@ -36,21 +36,21 @@ The original dataset is [raw-data.txt](https://github.com/jd-coderepos/contribut
 
 | NER | Count |
 | --- | --- |
-| method | 2,492 |
-| research problem | 2,049 |
+| method | 1,216 |
+| research problem | 915 |
 
 `dev-abs.data`
 
 | NER | Count |
 | --- | --- |
-| method | 132 |
-| research problem | 118 |
+| method | 66 |
+| research problem | 62 |
 
 
 `test-abs.data`
 
 | NER | Count |
 | --- | --- |
-| method | 566 |
-| research problem | 464 |
+| method | 290 |
+| research problem | 205 |
 

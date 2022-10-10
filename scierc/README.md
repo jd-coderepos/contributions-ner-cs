@@ -10,18 +10,18 @@ The original dataset is [here](http://nlp.cs.washington.edu/sciIE/)
 
 | NER | Count |
 | --- | --- |
-| research problem | 3,088 |
+| research problem | 1,034 |
 
 `dev-abs.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 158 |
+| research problem | 59 |
 
 
 `test-abs.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 517 |
+| research problem | 184 |
 

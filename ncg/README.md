@@ -10,22 +10,19 @@ The original dataset is [here](https://data.uni-hannover.de/dataset/semeval-2021
 
 | NER | Count |
 | --- | --- |
-| research problem | 8,821 |
-| method | 4,516 |
+| research problem | 223 |
 
 `dev.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 634 |
-| method | 369 |
+| research problem | 45 |
 
 `test.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 742 |
-| method | 455 |
+| research problem | 140 |
 
 
 #### Abstracts
@@ -34,21 +31,17 @@ The original dataset is [here](https://data.uni-hannover.de/dataset/semeval-2021
 
 | NER | Count |
 | --- | --- |
-| method | 10,440 |
-| research problem | 9,702 |
+| research problem | 266 |
 
 `dev-abs.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 744 |
-| method | 707 |
+| research problem | 75 |
 
 
 `test-abs.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 2,768 |
-| method | 2,604 |
-
+| research problem | 159 |

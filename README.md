@@ -26,37 +26,37 @@ where titles are annotated with all seven entities.
 
 | NER | Count |
 | --- | --- |
-| solution | 65,213 |
-| research problem | 43,033 |
-| resource | 19,759 |
-| method | 19,645 |
-| tool | 4,856 |
-| dataset | 4,062 |
-| language | 1,704 |
+| solution | 18,924 |
+| research problem | 15,646 |
+| method | 8,854 |
+| resource | 7,346 |
+| tool | 1,718 |
+| language | 1,141 |
+| dataset | 882 |
 
 `dev.data`
 
 | NER | Count |
 | --- | --- |
-| solution | 3,685 |
-| research problem | 2,717 |
-| resource | 1,224 |
-| method | 1,172 |
-| tool | 264 |
-| dataset | 191 |
-| language | 79 |
+| solution | 1,072 |
+| research problem | 989 |
+| method | 574 |
+| resource | 439 |
+| tool | 93 |
+| language | 50 |
+| dataset | 39 |
 
 `test.data`
 
 | NER | Count |
 | --- | --- |
-| solution | 29,287 |
-| research problem | 11,093 |
-| resource | 8,511 |
-| method | 7,009 |
-| tool | 2,272 |
-| dataset | 947 |
-| language | 690 |
+| solution | 8,316 |
+| research problem | 4,070 |
+| resource | 3,226 |
+| method | 2,768 |
+| tool | 743 |
+| language | 499 |
+| dataset | 228 |
 
 #### Abstracts
 
@@ -64,22 +64,22 @@ where titles are annotated with all seven entities.
 
 | NER | Count |
 | --- | --- |
-| research problem | 15,498 |
-| method | 12,932 |
+| method | 10,992 |
+| research problem | 7,485 |
 
 `dev-abs.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 1,450 |
-| method | 839 |
+| method | 719 |
+| research problem | 603 |
 
 `test-abs.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 4,123 |
-| method | 3,170 |
+| method | 2,723 |
+| research problem | 2,100 |
 
 The reamining repositories have specialized README files with the respective dataset statistics.
 

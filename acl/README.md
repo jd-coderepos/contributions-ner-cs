@@ -8,35 +8,35 @@ Contains annotated data for all seven cs-ner entities on titles of papers in the
 
 | NER | Count |
 | --- | --- |
-| solution | 65,190 |
-| research problem | 32,475 |
-| resource | 19,759 |
-| method | 14,479 |
-| tool | 4,856 |
-| dataset | 4,062 |
-| language | 1,704 |
+| solution | 18,910 |
+| research problem | 10,728 |
+| resource | 7,346 |
+| method | 5,110 |
+| tool | 1,718 |
+| language | 1,141 |
+| dataset | 882 |
 
 
 `dev.data`
 
 | NER | Count |
 | --- | --- |
-| solution | 3,685 |
-| research problem | 1,842 |
-| resource | 1,224 |
-| method | 765 |
-| tool | 264 |
-| dataset | 191 |
-| language | 79 |
+| solution | 1,072 |
+| research problem | 610 |
+| resource | 439 |
+| method | 288 |
+| tool | 93 |
+| language | 50 |
+| dataset | 39 |
 
 `test.data`
 
 | NER | Count |
 | --- | --- |
-| solution | 29,284 |
-| research problem | 9,648 |
-| resource | 8,511 |
-| method | 6,410 |
-| tool | 2,272 |
-| dataset | 947 |
-| language | 690 |
+| solution | 8,314 |
+| research problem | 3,493 |
+| resource | 3,226 |
+| method | 2,341 |
+| tool | 743 |
+| language | 499 |
+| dataset | 228 |

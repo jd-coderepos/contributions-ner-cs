@@ -8,24 +8,22 @@ Dataset from https://paperswithcode.com/
 
 | NER | Count |
 | --- | --- |
-| research problem | 929 |
-| method | 650 |
-| solution | 23 |
+| research problem | 4,334 |
+| method | 3,433 |
 
 `dev.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 60 |
-| method | 38 |
+| research problem | 314 |
+| method | 267 |
 
 `test.data`
 
 | NER | Count |
 | --- | --- |
-| research problem | 217 |
-| method | 144 |
-| solution | 3 |
+| research problem | 354 |
+| method | 354 |
 
 
 #### Abstracts
@@ -34,21 +32,21 @@ Dataset from https://paperswithcode.com/
 
 | NER | Count |
 | --- | --- |
-| method | 2,492 |
-| research problem | 2,049 |
+| method | 9,776 |
+| research problem | 5,270 |
 
 `dev-abs.data`
 
 | NER | Count |
 | --- | --- |
-| method | 132 |
-| research problem | 118 |
+| method | 653 |
+| research problem | 407 |
 
 
 `test-abs.data`
 
 | NER | Count |
 | --- | --- |
-| method | 566 |
-| research problem | 464 |
+| method | 2,433 |
+| research problem | 1,552 |
 

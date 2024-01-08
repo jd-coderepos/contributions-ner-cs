@@ -87,9 +87,26 @@ The remaining repositories have specialized README files with the respective dat
 
 ### 3) Citation
 
-Accepted for publication in [ICADL 2022](https://icadl.net/icadl2022/) proceedings.
+If this work inspires your further research, please consider citing our [ICADL 2022](https://icadl.net/icadl2022/) proceedings paper.
 
-`Citation information forthcoming`
+```
+@InProceedings{10.1007/978-3-031-21756-2_3,
+author="D'Souza, Jennifer
+and Auer, S{\"o}ren",
+editor="Tseng, Yuen-Hsien
+and Katsurai, Marie
+and Nguyen, Hoa N.",
+title="Computer Science Named Entity Recognition in the Open Research Knowledge Graph",
+booktitle="From Born-Physical to Born-Virtual: Augmenting Intelligence in Digital Libraries",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="35--45",
+abstract="Domain-specific named entity recognition (NER) on Computer Science (CS) scholarly articles is an information extraction task that is arguably more challenging for the various annotation aims that can hamper the task and has been less studied than NER in the general domain.  Given that significant progress has been made on NER, we anticipate that scholarly domain-specific NER will receive increasing attention in the years to come. Currently, progress on CS NER -- the focus of this work -- is hampered in part by its recency and the lack of a standardized annotation aims for scientific entities/terms. Directly addressing these issues, this work proposes a standardized task by defining a set of seven contribution-centric scholarly entities for CS NER viz., research problem, solution, resource, language, tool, method, and dataset.",
+isbn="978-3-031-21756-2"
+}
+```
+
 
 
 Preprint
